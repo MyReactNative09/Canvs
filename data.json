@@ -1,0 +1,36 @@
+{
+  "images": [
+    {
+      "src": "https://picsum.photos/id/10/200/300",
+      "x": 100,
+      "y": 100,
+      "rotation": 20,
+      "Frame": "http://10.0.2.2:8081/assets/Assets/frame_2.png?platform=android&hash=8b4c18d619b5f5bb51c8aae49aee0832"
+    },
+    {
+      "src": "https://picsum.photos/id/80/200/300",
+      "x": 115,
+      "y": 290,
+      "rotation": 0,
+      "Frame": "http://10.0.2.2:8081/assets/Assets/frame_2.png?platform=android&hash=8b4c18d619b5f5bb51c8aae49aee0832"
+    },
+    {
+      "src": "https://picsum.photos/id/500/200/300",
+      "x": 115,
+      "y": 480,
+      "rotation": -30,
+      "Frame": "http://10.0.2.2:8081/assets/Assets/frame_2.png?platform=android&hash=8b4c18d619b5f5bb51c8aae49aee0832"
+    }
+    // {
+    //   "src": "https://picsum.photos/200",
+    //   "x": 115,
+    //   "y": 690,
+    //   "rotation": 30,
+    //   "Frame": "http://10.0.2.2:8081/assets/Assets/frame_2.png?platform=android&hash=8b4c18d619b5f5bb51c8aae49aee0832"
+    // }
+  ],
+  "frame": {
+    "width": 320,
+    "height": 440
+  }
+}
